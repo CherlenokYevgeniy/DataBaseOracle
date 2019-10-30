@@ -1,3 +1,3 @@
 # DataBaseOracle
 Bank Robbery
-All tablts and triggers
+All tables and triggers
